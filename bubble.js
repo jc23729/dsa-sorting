@@ -21,3 +21,10 @@ module.exports = bubbleSort;
 
 // f the given array has to be sorted in ascending order, then bubble sort will start by comparing the first element of the array with the second element, if the first element is greater than the second element, it will swap both the elements, and then move on to compare the second and the third element, and so on.
 
+// Following are the steps involved in bubble sort(for sorting a given array in ascending order):
+
+// Starting with the first element(index = 0), compare the current element with the next element of the array.
+
+
+// If the current element is greater than the next element, then swap both the elements.
+
