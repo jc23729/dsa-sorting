@@ -15,3 +15,8 @@ function bubbleSort(arr) {
 }
 
 module.exports = bubbleSort;
+
+
+
+// We take an unsorted array for our example. Bubble sort takes Ο(n2) time so we're keeping it short and precise.
+
