@@ -28,3 +28,4 @@ module.exports = bubbleSort;
 
 // If the current element is greater than the next element, then swap both the elements.
 
+// If the current element is less than the next element, move to the next element. Repeat Step 1.
