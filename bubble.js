@@ -17,6 +17,4 @@ function bubbleSort(arr) {
 module.exports = bubbleSort;
 
 
-
-// We take an unsorted array for our example. Bubble sort takes Ο(n2) time so we're keeping it short and precise.
-
+// Bubble Sort is a simple algorithm which is used to sort a given set of n elements provided in form of an array with n number of elements. Bubble Sort compares all the element one by one and sort them based on their values.
